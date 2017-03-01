@@ -1,1 +1,2 @@
-# 04_Entity_Framework
+# 04 Entity Framework
+Agenda Day 4 - Entity Framework
