@@ -15,7 +15,7 @@ Entity Framework is an object-relational mapper (O/RM) that enables .NET develop
 
 The database we are going to create and work with today looks like this:    
 
-![data-model-diagram](/Materiaks/data-model-diagram.png)
+![data-model-diagram](https://github.com/keacore/04_Entity_Framework/blob/master/Materials/data-model-diagram.png)
 
 
 
