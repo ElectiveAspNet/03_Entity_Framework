@@ -38,9 +38,9 @@ project.json
         }, 
         "Microsoft.AspNetCore.Server.Kestrel" : "1.1.0",
         "Microsoft.AspNetCore.Mvc": "1.1.0",
-        "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
+        "Microsoft.EntityFrameworkCore.Sqlite": "1.1.1",
         "Microsoft.EntityFrameworkCore.Tools": {
-          "version": "1.0.0-preview4-final",
+          "version": "1.1.0-preview4-final",
           "type": "build"
     }
       },
@@ -48,7 +48,7 @@ project.json
     }
   }, 
   "tools": {
-    "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview4-final"
+    "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview2-final"
   }
 }
 ````   
