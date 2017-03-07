@@ -11,3 +11,8 @@ Entity Framework is an object-relational mapper (O/RM) that enables .NET develop
 * [.NET Core - New Database](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)
 
 * [DB Browser for sqlite](http://sqlitebrowser.org/)
+
+
+## Views, Strongly Typed, Razor
+
+* [Rendering HTML with views in ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview)
