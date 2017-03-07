@@ -1,5 +1,25 @@
-<pre>
+# Entity Framework
+## Dependencies added to project.json file
 
+Add:
+````JSON     
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "version": "1.0.0-preview4-final",
+          "type": "build"
+    }
+````      
+and     
+
+````JSON     
+    "tools": {
+      "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview4-final"
+    }
+````  
+
+So it will look like this:
+
+````JSON 
 {
   "version": "1.0.0-*",
   "buildOptions": {
@@ -17,19 +37,17 @@
         }, 
         "Microsoft.AspNetCore.Server.Kestrel" : "1.1.0",
         "Microsoft.AspNetCore.Mvc": "1.1.0",
-        <b>"Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
+        "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
         "Microsoft.EntityFrameworkCore.Tools": {
           "version": "1.0.0-preview4-final",
           "type": "build"
-    }</b>
+    }
       },
       "imports": "dnxcore50"
     }
-  }, <b>
+  }, 
   "tools": {
     "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview4-final"
-  } </b>
+  }
 }
-
-
-</pre>
+````   
