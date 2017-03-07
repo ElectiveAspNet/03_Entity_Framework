@@ -25,3 +25,5 @@ The database we are going to create and work with today looks like this:
 ## Views, Strongly Typed, Razor
 
 * [Rendering HTML with views in ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview)
+* [Razor syntax](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor)
+* [Introduction to Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
