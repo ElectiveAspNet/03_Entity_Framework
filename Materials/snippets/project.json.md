@@ -3,9 +3,9 @@
 
 Add:
 ````JSON     
-    "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.1.1",
         "Microsoft.EntityFrameworkCore.Tools": {
-          "version": "1.0.0-preview4-final",
+          "version": "1.1.0-preview4-final",
           "type": "build"
     }
 ````      
@@ -13,7 +13,7 @@ and
 
 ````JSON     
     "tools": {
-      "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview4-final"
+      "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview2-final"
     }
 ````  
 
