@@ -17,18 +17,18 @@
         }, 
         "Microsoft.AspNetCore.Server.Kestrel" : "1.1.0",
         "Microsoft.AspNetCore.Mvc": "1.1.0",
-        <mark>"Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
+        <b>"Microsoft.EntityFrameworkCore.Sqlite": "1.0.0",
         "Microsoft.EntityFrameworkCore.Tools": {
           "version": "1.0.0-preview4-final",
           "type": "build"
-    }</mark>
+    }</b>
       },
       "imports": "dnxcore50"
     }
-  }, <mark>
+  }, <b>
   "tools": {
     "Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview4-final"
-  } </mark>
+  } </b>
 }
 
 
