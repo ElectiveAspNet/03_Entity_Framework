@@ -17,8 +17,9 @@ and
     }
 ````  
 
-So it will look like this:
+So it will look like this:    
 
+project.json
 ````JSON 
 {
   "version": "1.0.0-*",
