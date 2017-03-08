@@ -1,4 +1,7 @@
-# Add code to initialize the database with test data    
+# Seed Method exercise
+Do this tutorial so it will fit to our StudentsApplication. And also make an Inititalize functionality for you rown project.
+
+## Add code to initialize the database with test data    
 
 The Entity Framework will create an empty database for you. In this section, you write a method that is called after the database is created in order to populate it with test data.
 
