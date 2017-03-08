@@ -12,6 +12,16 @@ Put in that:
 
 `````
 
+```` JSON
+
+"Microsoft.AspNetCore.Razor.Tools": {
+      "version": "1.0.0-preview2-final",
+      "type": "build"
+}
+
+````  
+
+
 
 ## List of taghelpers
 
