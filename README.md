@@ -1,8 +1,9 @@
 # #4 Entity Framework
-## Agenda Day 4 - Entity Framework
+## Agenda Day 3 - Entity Framework
 
 ## Your own project
 You should all show me your own project, which is useing the frameworks we used so far.    
+(Dotnet Core, MVC, EF)
 A suggestion is that you create a Movie Asp.net Core MVC App, but if you have other ideas than a Movie App this is of cause also fine. 
 
 ## Entity Framework
