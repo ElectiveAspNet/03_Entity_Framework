@@ -1,4 +1,4 @@
-# #4 Entity Framework
+# #3 Entity Framework
 ## Agenda Day 3 - Entity Framework
 
 ## Your own project
